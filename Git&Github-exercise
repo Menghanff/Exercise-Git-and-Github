@@ -1,4 +1,3 @@
-class Git:
   def hello():
     print("Hello")
 
